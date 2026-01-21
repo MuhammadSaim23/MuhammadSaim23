@@ -1,6 +1,6 @@
 ## Hi there 👋 Muhammad Saim
 
-!--
+<!--
 **MuhammadSaim23/MuhammadSaim23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about frontend, backend, JavaScript, GraphQL, or building web products
 - 📫 How to reach me: Check social links below.
 - ⚡ Fun fact: I enjoy turning ideas into working products
---
+-->
