@@ -13,7 +13,6 @@
 ![MacBook Pro 2020](https://img.shields.io/badge/MacBook%20Pro%202021-2C2C2C?style=for-the-badge)
 
 # 🎧 Music apps I use:
-//![Apple Music](https://img.shields.io/badge/Apple%20Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)//
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
