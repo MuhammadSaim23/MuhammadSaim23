@@ -10,7 +10,7 @@
 
 # 👨🏻‍💻 Laptop:
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
-![MacBook Pro 2020](https://img.shields.io/badge/MacBook%20Pro%202021-2C2C2C?style=for-the-badge)
+![MacBook Pro 2020](https://img.shields.io/badge/MacBook%20Pro%202020-2C2C2C?style=for-the-badge)
 
 # 🎧 Music apps I use:
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
