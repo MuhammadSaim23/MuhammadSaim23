@@ -1,5 +1,3 @@
-# Hi there 👋 Muhammad Saim
-
 # 💫 About Me:
 - 😄 Pronouns: He/Him<br>- 🔭 I’m currently working on full-stack web applications using MEAN and MERN Stack<br>- 🌱 I’m currently learning business development and product growth strategies<br>- 👯 I’m looking to collaborate on web applications, APIs, and startup-focused products<br>- 🤔 I’m looking for help with scaling products and improving user acquisition<br>- 💬 Ask me about frontend, backend, JavaScript, mongodb, or building web products<br>- 📫 How to reach me: Check social links below.<br>- ⚡ Fun fact: I enjoy turning ideas into working products
 
