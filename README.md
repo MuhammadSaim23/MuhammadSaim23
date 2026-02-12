@@ -29,9 +29,8 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false&cache_seconds=1800" height="170"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false&cache_seconds=1800" height="170"/>
+
 
 
 ### ✍️ Random Dev Quote
