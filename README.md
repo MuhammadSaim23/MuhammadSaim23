@@ -35,9 +35,7 @@
   <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaim23&layout=compact&theme=github_dark&hide_border=false&count_private=true"/>
-</p>
+
 
 
 
