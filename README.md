@@ -29,7 +29,7 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadSaim23&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadSaim23&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaim23&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
