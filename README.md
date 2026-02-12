@@ -28,6 +28,17 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaim23&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadSaim23&layout=compact&theme=github_dark&hide_border=true&count_private=true"/>
+</p>
+
 
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadSaim23&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
