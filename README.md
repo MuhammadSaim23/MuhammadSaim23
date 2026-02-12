@@ -34,6 +34,12 @@
   <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false" height="170"/>
 </p>
 
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false&cache_seconds=1800" height="170"/>
+</p>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
