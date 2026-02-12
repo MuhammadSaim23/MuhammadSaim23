@@ -31,7 +31,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadSaim23&show_icons=true&theme=github_dark&hide_border=false&count_private=true&include_all_commits=true" height="170"/>
   <img src="https://streak-stats.demolab.com?user=MuhammadSaim23&theme=github-dark&hide_border=false" height="170"/>
 </p>
 
