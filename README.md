@@ -1,7 +1,7 @@
 # 💫 About Me: 
 - 😄 Pronouns: He/Him<br>
-- 🔭 I’m working on full-stack web applications using MEAN & MERN<br>
-- 👯 Open to collaborating on bussiness development, web apps, APIs, and startup products<br>
+- 🔭 ’m working as a Business Developer and part-time Full-Stack Web Developer using MEAN and MERN.<br>
+- 👯 Open to collaborating on bussiness development, web apps and startup products<br>
 - 📫 How to reach me: Check social links below 
     
  
